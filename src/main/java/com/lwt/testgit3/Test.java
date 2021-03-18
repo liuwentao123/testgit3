@@ -20,5 +20,6 @@ public class Test {
         System.out.println("m6");
         System.out.println("m7");
         System.out.println("t14");
+        System.out.println("t24");
     }
 }
