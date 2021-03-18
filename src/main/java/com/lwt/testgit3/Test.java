@@ -17,5 +17,6 @@ public class Test {
         System.out.println("t23");
         System.out.println("t12");
         System.out.println("t13");
+        System.out.println("m6");
     }
 }
